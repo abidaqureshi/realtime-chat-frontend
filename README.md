@@ -36,7 +36,8 @@ A modern, responsive chat application frontend built with **React**, **TypeScrip
 
 - Node.js 16.0 or higher
 - npm, yarn, or pnpm
-- Backend API running (FastAPI chat backend)
+- Backend API running ([FastAPI chat backend](https://github.com/abidaqureshi/realtime-chat-api))
+
 
 ## 🔧 Installation
 
@@ -437,7 +438,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vite Team** - For the fast build tool
 - **Tailwind CSS** - For the utility-first CSS framework
 - **Lucide** - For the beautiful icons
-- **FastAPI Backend** - For the robust API ([realtime-chat-api](https://github.com/abidaqureshi/realtime-chat-api))
+- **FastAPI Backend** - For the robust API ([FastAPI chat backend](https://github.com/abidaqureshi/realtime-chat-api))
 
 ---
 
