@@ -437,7 +437,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vite Team** - For the fast build tool
 - **Tailwind CSS** - For the utility-first CSS framework
 - **Lucide** - For the beautiful icons
-- **FastAPI Backend** - For the robust API ([text](https://github.com/abidaqureshi/realtime-chat-api))
+- **FastAPI Backend** - For the robust API ([realtime-chat-api](https://github.com/abidaqureshi/realtime-chat-api))
 
 ---
 
